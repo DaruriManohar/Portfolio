@@ -828,7 +828,7 @@ input[type="submit"] {
     }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 46.0625em) {
     body {
         background: url("sitebg-2 (3).jpg") no-repeat center fixed;
         background-size: cover;
@@ -891,7 +891,7 @@ input[type="submit"] {
     }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 25em) {
     .menuHolder {
         top: 4rem;
         right: 4rem;

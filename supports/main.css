@@ -907,6 +907,7 @@ input[type="submit"] {
 
     .profile-img {
         margin: 0 0 7rem 0;
+	width:35rem;
     }
 
     .portfolio-item {
